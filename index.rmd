@@ -1,5 +1,6 @@
 ---
-title: "Index of This Website"
+title: "Will Renius"
 ---
 
-More about this website.
+
+This site is under construction, but feel free to check out my [github](https://github.com/Will-Renius)
