@@ -1,4 +1,4 @@
 theme = "hugo_theme_beg"
-baseURL = "http://willrenius.com/"
+baseURL = "http://willrenius.com/public"
 languageCode = "en-us"
 title = "Will Renius"

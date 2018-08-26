@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Will Renius</title>
-    <link>http://willrenius.com/categories/</link>
+    <link>http://willrenius.com/public/categories/</link>
     <description>Recent content in Categories on Will Renius</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://willrenius.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://willrenius.com/public/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>R</title>
-      <link>http://willrenius.com/categories/r/</link>
+      <link>http://willrenius.com/public/categories/r/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>http://willrenius.com/categories/r/</guid>
+      <guid>http://willrenius.com/public/categories/r/</guid>
       <description></description>
     </item>
     

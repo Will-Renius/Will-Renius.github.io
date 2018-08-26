@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Will Renius</title>
-    <link>http://willrenius.com/tags/</link>
+    <link>http://willrenius.com/public/tags/</link>
     <description>Recent content in Tags on Will Renius</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
     
-	<atom:link href="http://willrenius.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://willrenius.com/public/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Plot</title>
-      <link>http://willrenius.com/tags/plot/</link>
+      <link>http://willrenius.com/public/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>http://willrenius.com/tags/plot/</guid>
+      <guid>http://willrenius.com/public/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>http://willrenius.com/tags/r-markdown/</link>
+      <link>http://willrenius.com/public/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>http://willrenius.com/tags/r-markdown/</guid>
+      <guid>http://willrenius.com/public/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Regression</title>
-      <link>http://willrenius.com/tags/regression/</link>
+      <link>http://willrenius.com/public/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>http://willrenius.com/tags/regression/</guid>
+      <guid>http://willrenius.com/public/tags/regression/</guid>
       <description></description>
     </item>
     
